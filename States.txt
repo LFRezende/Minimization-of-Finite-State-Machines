@@ -1,0 +1,6 @@
+a;b;b;d
+b;b;b;d
+c;c;c;a
+d;d;d;d
+e;a;a;b
+f;e;e;d
